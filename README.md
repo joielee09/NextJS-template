@@ -33,7 +33,6 @@ For Production:
 3. npm install (at root dir)</br>
 4. npm run build </br>
 5. npm run start </br>
-6. Page will be automatically build with ---
 
 ### [ Environment ]
 
