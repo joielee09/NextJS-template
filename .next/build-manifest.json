@@ -29,10 +29,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/components/second": [
+    "/modules/first": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/components/second.js"
+      "static/chunks/pages/modules/first.js"
+    ],
+    "/modules/second": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/modules/second.js"
     ]
   },
   "ampFirstPages": []
