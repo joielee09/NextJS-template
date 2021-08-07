@@ -1,4 +1,4 @@
-# NextJS_tryout
+# NextJS_template
 
 Repository for Basic NextJS template
 
